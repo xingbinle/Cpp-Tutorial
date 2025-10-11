@@ -3,5 +3,5 @@ using std::cout;
 int main()
 {
 	cout<<"hello,world!!!!";
-	return 0;
+	return 0;//表示程序结束
 }
