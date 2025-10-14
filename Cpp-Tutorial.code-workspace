@@ -9,7 +9,11 @@
 			"*.nasm": "nasm",
 			"istream": "cpp",
 			"streambuf": "cpp",
-			"tuple": "cpp"
+			"tuple": "cpp",
+			"random": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp",
+			"initializer_list": "cpp"
 		}
 	}
 }
