@@ -1,5 +1,4 @@
 #include <iostream>
-using namespace std;
 
 int main()
 {
@@ -18,12 +17,12 @@ int main()
 	int number = 10;
 	// 给number赋值为10;
 	// number = 10;
-	cout << number << "\n"
-		 << number << endl; // endl: End of line
+	std::cout << number << "\n"
+			  << number << std::endl; // endl: End of line
 
 	// 定义了整数类型的变量，但是我们没有给他初始化
 	int uninitialized_number;
-	cout << uninitialized_number << endl;
+	std::cout << uninitialized_number << std::endl;
 
 	int num1, num2 = 1, num3;
 
