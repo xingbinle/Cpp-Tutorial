@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"*.nasm": "nasm",
+			"istream": "cpp",
+			"streambuf": "cpp",
+			"tuple": "cpp"
+		}
+	}
 }
